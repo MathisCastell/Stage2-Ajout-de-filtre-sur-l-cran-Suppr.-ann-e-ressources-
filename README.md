@@ -23,5 +23,38 @@ Je mets en place les tri
 
 ![image](https://github.com/MathisCastell/Stage2-Ajout-de-filtre-sur-l-cran-Suppr.-ann-e-ressources-/assets/148212506/9d8477b4-58d8-4d96-81db-95016cb6245f)
 
+## Création du filtre 
 
-**La seconde**
+Je change de page, dans la page de filtre je défini le nouveau champ liste.
+
+![image](https://github.com/MathisCastell/Stage2-Ajout-de-filtre-sur-l-cran-Suppr.-ann-e-ressources-/assets/148212506/236131f9-d4c1-4643-879a-26f833b77542)
+
+J'ajoute la valeurs par défaut à la variable e_type 
+
+![image](https://github.com/MathisCastell/Stage2-Ajout-de-filtre-sur-l-cran-Suppr.-ann-e-ressources-/assets/148212506/475d7aab-0dd0-4fab-95fb-f83a0d62e669)
+
+Je rempli le champ list en lui mettant des valeurs dedans grâce à une requête SQL
+
+![image](https://github.com/MathisCastell/Stage2-Ajout-de-filtre-sur-l-cran-Suppr.-ann-e-ressources-/assets/148212506/a9eeaecc-5022-4447-a42b-fb0590393fc4)
+
+J'appelle une PS pour mettre les variables selectionnée dans la page de filtre dans des variables de session :
+
+![image](https://github.com/MathisCastell/Stage2-Ajout-de-filtre-sur-l-cran-Suppr.-ann-e-ressources-/assets/148212506/077bd945-6dfb-4a46-b7dd-735dc7e9caf4)
+
+Enfin j'affiche dans le formulaire l'élément type 
+
+![image](https://github.com/MathisCastell/Stage2-Ajout-de-filtre-sur-l-cran-Suppr.-ann-e-ressources-/assets/148212506/7876a5e8-5a8c-46a7-b60d-415e8819df0b)
+
+Résultat 
+
+![image](https://github.com/MathisCastell/Stage2-Ajout-de-filtre-sur-l-cran-Suppr.-ann-e-ressources-/assets/148212506/50f0a76d-3e6b-4973-8801-cce6807c293d)
+
+
+**La seconde page est la même que la première.**
+
+
+
+
+Résultat 
+
+![image](https://github.com/MathisCastell/Stage2-Ajout-de-filtre-sur-l-cran-Suppr.-ann-e-ressources-/assets/148212506/d495edba-03fc-49b6-8bb5-0f3cde3ddcf3)
