@@ -50,10 +50,10 @@ Résultat
 ![image](https://github.com/MathisCastell/Stage2-Ajout-de-filtre-sur-l-cran-Suppr.-ann-e-ressources-/assets/148212506/50f0a76d-3e6b-4973-8801-cce6807c293d)
 
 
+
+
+
 **La seconde page est la même que la première.**
-
-
-
 
 Résultat 
 
